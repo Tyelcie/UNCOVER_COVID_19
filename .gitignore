@@ -1,4 +1,1 @@
-*.csv
-*.zip
-*.xlsx
-data\*
+data/
